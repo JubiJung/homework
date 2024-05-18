@@ -1,5 +1,6 @@
 # Apple Page (2024/05/18)
-![ezgif-5-44eb78f4fb](https://github.com/JubiJung/homework/assets/124552101/e9a48673-de6f-4ccf-9cae-d5fdf1b2373e)
+![apple_homework](https://github.com/JubiJung/homework/assets/124552101/d2d00b6d-a60a-42c5-b976-1877b7f69d32)
+
 
 ---
 
