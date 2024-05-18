@@ -1,0 +1,23 @@
+@import url(card-component.css);
+@import url(./card.css);
+@import url(./theme.css);
+
+/* 카드 레이아웃 */
+
+.main {
+  display: grid;
+  gap: var(--base-spacing);
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 1024px) {
+  .main {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .ipad-pro-section,
+  .ipad-air-section,
+  .iphone-pro-section {
+    grid-column: span 2;
+  }
+}
